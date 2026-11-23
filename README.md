@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rootme.png" alt="RootMe — TryHackMe" width="320">
+  <img src="image.png" alt="RootMe — TryHackMe" width="320">
 </p>
 # RootMe — TryHackMe | Write-up
  
